@@ -1,0 +1,36 @@
+{
+  "seats": [
+    {
+      "id": "A1",
+      "taken": true
+    },
+    {
+      "id": "A2",
+      "taken": false
+    },
+    {
+      "id": "A3",
+      "taken": false
+    },
+    {
+      "id": "A4",
+      "taken": false
+    },
+    {
+      "id": "B1",
+      "taken": false
+    },
+    {
+      "id": "B2",
+      "taken": true
+    },
+    {
+      "id": "B3",
+      "taken": true
+    },
+    {
+      "id": "B4",
+      "taken": true
+    }
+  ]
+}

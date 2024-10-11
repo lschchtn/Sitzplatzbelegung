@@ -4,7 +4,6 @@ let obj;
 const res = await fetch('http://192.168.109.99:8081/frontend')
 obj = await res.json();
 const json = JSON.parse(JSON.parse(obj));
-console.log(json);
 
 const seats = json.Seats;
 

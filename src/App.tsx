@@ -1,7 +1,7 @@
 import { Seat  } from "./components/Seat.tsx";
 
 let obj;
-const res = await fetch('http://192.168.109.99:8081/frontend')
+const res = await fetch('http://000.000.000.0:8081/frontend') //has to be replaced with dynamic IP address
 obj = await res.json();
 const json = JSON.parse(JSON.parse(obj));
 
